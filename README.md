@@ -1,6 +1,8 @@
 # Calculator
 
 ---
-Creates a simple calculator by importing a file and using an implementation of a lexical analzer.
+Creates a simple calculator by importing a text file and parses it using an implementation of a lexical analzer, Then creates a graphical calculator.
 
-First Calculator using Java
+![Calculator Demo](CalculatorDemo.gif)
+
+
